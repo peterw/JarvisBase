@@ -1,4 +1,4 @@
-# Huggingface Hub Python Library
+# Voice Genius
 This Streamlit application demonstrates a question-answering chatbot using OpenAI's GPT-3.5-turbo model, Hugging Face's DeepLake, and the Whisper API for voice transcription. The chatbot also uses Eleven Labs to generate audio responses.
 
 ## Basic Idea
