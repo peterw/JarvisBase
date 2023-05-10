@@ -99,7 +99,7 @@ def display_conversation(history):
 # Main function to run the app
 def main():
     # Initialize Streamlit app with a title
-    st.write("# Voice Genius 🧙")
+    st.write("# JarvisBase 🧙")
    
     # Load embeddings and the DeepLake database
     db = load_embeddings_and_database(active_loop_data_set_path)
