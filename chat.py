@@ -133,7 +133,7 @@ def search_db(user_input, db):
     retriever.search_kwargs["fetch_k"] = 100
     retriever.search_kwargs["maximal_marginal_relevance"] = True
     retriever.search_kwargs["k"] = 10
-    model = ChatOpenAI(model='gpt-3.5-turbo')
+    model = ChatOpenAI(model_name='gpt-4')
     qa = RetrievalQA.from_llm(model, retriever=retriever, return_source_documents=True)
     return qa({"query": user_input})
 
