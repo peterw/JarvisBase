@@ -36,7 +36,8 @@ If you have a microphone, you can click the record button and transcribe your au
 The bot will display the response in the chat history, and it will also be spoken using the Eleven Labs API.
 
 ## Sponsors
-✨ Learn to build projects like this one (early bird discount): [BuildFast Course](https://www.buildfast.academy)
+
+✨ Find profitable ideas faster: [Exploding Insights](https://explodinginsights.com/)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
